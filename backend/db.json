@@ -1,0 +1,120 @@
+{
+  "freelancers": [
+    {
+      "name": "John Doe2",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": "25",
+      "isBooked": true,
+      "id": 3
+    },
+    {
+      "name": "test",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "test@gmail.com",
+      "password": "passwoed",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Adobe photoshop",
+        "Sony Vegas"
+      ],
+      "hourly_rate": "10",
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "name": "John Doe2",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": "25",
+      "isBooked": true,
+      "id": 5
+    },
+    {
+      "name": "test",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "test@gmail.com",
+      "password": "passwoed",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Adobe photoshop",
+        "Sony Vegas"
+      ],
+      "hourly_rate": "10",
+      "isBooked": true,
+      "id": 6
+    },
+    {
+      "name": "John Doe3",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": "25",
+      "isBooked": true,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "test@gmail.com",
+      "password": "passwoed",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Adobe photoshop",
+        "Sony Vegas"
+      ],
+      "hourly_rate": "10",
+      "isBooked": false,
+      "id": 8
+    },
+    {
+      "name": "John Doe4",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": "25",
+      "isBooked": false,
+      "id": 9
+    },
+    {
+      "name": "test",
+      "profile_picture": "https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg",
+      "email": "test@gmail.com",
+      "password": "passwoed",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Adobe photoshop",
+        "Sony Vegas"
+      ],
+      "hourly_rate": "10",
+      "isBooked": true,
+      "id": 10
+    }
+  ]
+}
